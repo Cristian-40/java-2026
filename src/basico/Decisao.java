@@ -18,7 +18,7 @@ public class Decisao {
             }
             /// -1 para encerrar o sistema
             if (nota == -1){
-                System.out.println("Fim!")
+                System.out.println("Fim!");
                 break;
 
             }
